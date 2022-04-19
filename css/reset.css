@@ -1,0 +1,10 @@
+/*初始化、重置功能*/
+html,body,ul,li{
+    margin: 0px;
+    padding: 0px;
+}
+dl,dt,dd
+{
+    margin: 0;
+    padding: 0;
+}
